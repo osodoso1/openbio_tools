@@ -1,4 +1,4 @@
-# open_tools
+# openbio_tools
 Under dev to make these commonly used Scripts more avaiable for different data curation tasks
 ----------------------------
 tools to be used freely
