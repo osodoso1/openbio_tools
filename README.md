@@ -1,9 +1,9 @@
 # openbio_tools
-Under dev to make these commonly used Scripts more avaiable for different data curation tasks
+Under dev to make these commonly used Scripts more avaiable for different data curation tasks. 
 ----------------------------
 tools to be used freely
 ----------------------------
-gDNA to qPCR request to asana:  A sccript used to manage labratory data handoff between teams with columns specified for genomic DNA to be convverted to quantitative PCR samples for downstream testing.
+gDNA to qPCR request to asana:  A script used to manage labratory data hand-off between teams with columns specified for genomic DNA to be convverted to quantitative PCR samples for downstream testing.
 ----------------------------
 plate_map_generator: Scripts used to assist lab personnel in producing plate maps for lab assay's. Strain * number of samples, outputted in a 10x5 and  3x5 format.
 ----------------------------
